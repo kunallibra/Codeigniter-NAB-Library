@@ -1,4 +1,4 @@
-Codeigniter-NAB-Library
+Codeigniter NAB Library
 =======================
 
 NAB Library is a library for Codeigniter. It processes payments / transaction using NAB API.
